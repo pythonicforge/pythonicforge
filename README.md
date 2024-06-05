@@ -26,5 +26,5 @@ _<h1 align="center">Hi 👋, I'm Hardik Jaiswal</h1>_
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pythonicforge&show_icons=true&theme=dark&locale=en" alt="pythonicforge" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pythonicforge&theme=dark" alt="pythonicforge" /></p>
-<img src="https://raw.githubusercontent.com/pythonicforge/pythonicforge/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/pythonicforge/pythonicforge/blob/output/github-contribution-grid-snake.svg)
 
