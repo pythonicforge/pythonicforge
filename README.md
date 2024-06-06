@@ -1,7 +1,7 @@
 _<h1 align="center">Hi 👋, I'm Hardik Jaiswal</h1>_
 _<h3 align="center">Python Developer and an Aspiring AI Engineer</h3>_
 <br>
-<img src="coding.gif" alt="pythonicforge"  align="right"/>
+<img src="coding.gif" alt="pythonicforge"  align="right" width="400px"/>
 
 - 🔭 _I’m currently working on [Melody.CLI](https://github.com/pythonicforge/Melody.CLI)_
 
