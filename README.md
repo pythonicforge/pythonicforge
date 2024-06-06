@@ -53,14 +53,21 @@ _<h3 align="center">⚙️ Languages and Tools</h3>_
 
 _<h3 align="center">📊 GitHub Statistics</h3>_
 
-<div align="center">
   <div align="center">
 <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pythonicforge&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="pythonicforge" />
   &nbsp;&nbsp;&nbsp;&nbsp;
 <img align="center" height="170" src="https://github-readme-stats.vercel.app/api?username=pythonicforge&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="pythonicforge" />
   &nbsp;&nbsp;&nbsp;&nbsp;
   </div>
-  <br>
+<div align="center">
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/pythonicforge/pythonicforge/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/pythonicforge/pythonicforge/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://github.com/pythonicforge/pythonicforge/blob/output/github-contribution-grid-snake.svg" />
+</picture>
+</div>
+<br>
+<div align="center">
 <img align="center" height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=pythonicforge&theme=radical&hide_border=true" alt="pythonicforge" />
   &nbsp;&nbsp;&nbsp;&nbsp;
 </div>
