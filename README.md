@@ -1,6 +1,8 @@
 _<h1 align="center">Hi 👋, I'm Hardik Jaiswal</h1>_
 _<h3 align="center">Python Developer and an Aspiring AI Engineer</h3>_
 <br>
+
+<div>
 <img src="coding.gif" alt="pythonicforge"  align="right" width="400px"/>
 
 - 🔭 _I’m currently working on [Melody.CLI](https://github.com/pythonicforge/Melody.CLI)_
@@ -12,13 +14,11 @@ _<h3 align="center">Python Developer and an Aspiring AI Engineer</h3>_
 - 💬 _Ask me about **Python and AI**_
 
 - 📫 _How to reach me **pythonicforge@gmail.com**_
+</div
 
-<br><br>
-<br>
-<br>
-<br>
+<br><br><br><br><br>
 
-_<h3 align="center">⚙️ Languages and Tools</h3>_
+_<h3 align="center" >⚙️ Languages and Tools</h3>_
 <div align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
   &nbsp;&nbsp;
