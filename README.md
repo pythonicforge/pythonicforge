@@ -6,7 +6,7 @@ _<h3 align="center">Python Developer and an Aspiring AI Engineer</h3>_
 <img src="coding.gif" alt="pythonicforge"  align="right" width="400px"/>
 <br>
   
-- 🔭 _I’m currently working on [Melody.CLI](https://github.com/pythonicforge/Melody.CLI)_
+- 🔭 _I’m currently working on [Commune](https://github.com/pythonicforge/Commune)_
 
 - 🌱 _I’m currently learning **Data Structures and Algorithms**_
 
