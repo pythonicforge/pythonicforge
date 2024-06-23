@@ -85,11 +85,6 @@ _<h3 align="center">✍️ Random Dev Quote</h3>_
 
 <br><br>
 
-_<h3 align="center">😂 Random Dev Meme</h3>_
-<div align="center">
-<img src='https://memer-new.vercel.app/' style="height: 400px;" align="center"/>
-</div>
-
 ---
 <div align="center">
 <img src='https://visitcount.itsvg.in/api?id=pythonicforge&icon=0&color=0)](https://visitcount.itsvg.in' align="center"/>
