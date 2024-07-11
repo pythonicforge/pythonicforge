@@ -8,11 +8,11 @@ _<h3 align="center">Python Developer and an Aspiring AI Engineer</h3>_
   
 - 🔭 _I’m currently working on [hardik.ai](https://github.com/pythonicforge/hardik.ai)_
 
-- 🌱 _I’m currently learning **Data Structures and Algorithms**_
+- 🌱 _I’m currently learning **Data Science**_
 
-- 👯 _I’m looking to collaborate on **Python and Frontend projects**_
+- 👯 _I’m looking to collaborate on **Python and web-development projects**_
 
-- 💬 _Ask me about **Python and AI**_
+- 💬 _Ask me about **Python, AI-ML & web-dev**_
 
 - 📫 _How to reach me **pythonicforge@gmail.com**_
 </div
