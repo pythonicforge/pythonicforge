@@ -1,7 +1,3 @@
-_<h1 align="center">Hi 👋, I'm Hardik Jaiswal</h1>_
-_<h3 align="center">Python Developer and an Aspiring AI Engineer</h3>_
-<br>
-
 <div>
 <a href="https://github.com/pythonicforge"><img src="coding.gif" alt="pythonicforge"  align="right" width="400px"/></a>
 <br>
@@ -60,24 +56,3 @@ _<h3 align="center">📊 GitHub Statistics</h3>_
   <img alt="github-snake" src="https://github.com/pythonicforge/pythonicforge/blob/output/github-contribution-grid-snake.svg" />
 </picture></a>
 </div>
-<br>
-<div align="center">
-  <a href="https://github.com/pythonicforge">
-<img align="center" height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=pythonicforge&theme=radical&hide_border=true" alt="pythonicforge" /></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-</div>
-
-<br><br>
-
-_<h3 align="center">✍️ Random Dev Quote</h3>_
-<div align="center">
-<img  src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="pythonicforge" />
-</div>
-
-<br/>
-
-<div align="center">
-<img src='https://visitcount.itsvg.in/api?id=pythonicforge&icon=0&color=0)](https://visitcount.itsvg.in' align="center"/>
-</div>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
