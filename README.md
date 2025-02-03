@@ -1,16 +1,16 @@
 <div>
-<a href="https://github.com/pythonicforge"><img src="coding.gif" alt="pythonicforge"  align="right" width="400px"/></a>
+<a href="https://github.com/pythonicforge"><img src="https://camo.githubusercontent.com/8fa138b64f31e052667d9553c2ecbe0fd2c0408b689aac8973e632152a882d90/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a4578626a6c774e44646d64444233646d4e7a646a67786347466c4e6d5668644738356447513361477831636a59304f586378654777334d435a6c634431324d56396e61575a7a58334e6c59584a6a61435a6a6444316e2f6247677363356d576f727966674b427831752f67697068792e676966" alt="pythonicforge"  align="right" width="300px"/></a>
 <br>
   
 - 🔭 _I’m currently working on [hardik.ai](https://github.com/pythonicforge/hardik.ai)_
 
-- 🌱 _I’m currently learning **Data Science**_
+- 🌱 _I’m currently learning **Flask**_
 
 - 👯 _I’m looking to collaborate on **Python and web-development projects**_
 
 - 💬 _Ask me about **Python, AI-ML & web-dev**_
 
-- 📫 _How to reach me **pythonicforge@gmail.com**_
+- 📫 _How to reach me **pseudopythonic@gmail.com**_
 </div
 
 <br><br><br><br><br>
