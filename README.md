@@ -1,7 +1,8 @@
 <a href="https://github.com/pythonicforge"><img src="225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9-2.gif" alt="pythonicforge" width="100%" style="display: block; margin: 0 auto"/></a>
 <div>
-<a href="https://github.com/pythonicforge"><img src="https://camo.githubusercontent.com/8fa138b64f31e052667d9553c2ecbe0fd2c0408b689aac8973e632152a882d90/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a4578626a6c774e44646d64444233646d4e7a646a67786347466c4e6d5668644738356447513361477831636a59304f586378654777334d435a6c634431324d56396e61575a7a58334e6c59584a6a61435a6a6444316e2f6247677363356d576f727966674b427831752f67697068792e676966" alt="pythonicforge" width="300px" align="right"/></a>
-<br><br><br>
+<a href="https://github.com/pythonicforge"><img src="coding.gif" alt="pythonicforge" width="350px" align="right"/></a>
+
+<br>
   
 - 🔭 _I’m currently working on [hardik.ai](https://github.com/pythonicforge/hardik.ai)_
 
@@ -37,6 +38,7 @@ _<h3 align="center" >⚙️ Languages and Tools</h3>_
 <a href="https://figma.com"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
   &nbsp;&nbsp;
 <a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
+<a href="https://www.github.com/"><img src="https://github.com/user-attachments/assets/8270add0-70fb-4c3c-9b8c-adf18e7f2fa4" alt="github" width="50" height="50" fill="#ffffff"/></a>
 </div>
 
 <br><br><br>
