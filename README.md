@@ -4,7 +4,7 @@
 
 <br>
   
-- 🔭 _I’m currently working on my Mathematics
+- 🔭 _I’m currently working on my Mathematics_
 
 - 🌱 _I’m currently learning **Machine Learning**_
 
