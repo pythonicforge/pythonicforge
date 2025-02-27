@@ -27,6 +27,10 @@ _<h3 align="center" >⚙️ Languages and Tools</h3>_
   &nbsp;&nbsp;
 <a href="https://pandas.pydata.org/docs/index.html"><img src="https://github.com/gilbarbara/logos/blob/main/logos/pandas-icon.svg" alt="pandas" width="40" height="40"/></a>
   &nbsp;&nbsp;
+<a href="https://matplotlib.org"><img src="https://github.com/detain/svg-logos/blob/master/svg/m/matplotlib-1.svg" alt="matplotlib" width="40" height="40"/></a>
+  &nbsp;&nbsp;
+<a href="https://seaborn.pydata.org"><img src="https://github.com/gilbarbara/logos/blob/main/logos/seaborn-icon.svg" alt="seaborn" width="40" height="40"/></a>
+  &nbsp;&nbsp;
 <a href="https://django.org"><img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21~bgwhite.svg" alt="django" width="40" height="40"/></a>
   &nbsp;&nbsp;
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
