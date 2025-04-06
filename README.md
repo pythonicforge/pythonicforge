@@ -21,6 +21,15 @@ _<h3 align="center" >⚙️ Languages and Tools</h3>_
 <div align="center">
 <a href="https://python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a> 
   &nbsp;&nbsp;
+<a href="https://django.org"><img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="django" width="40" height="40"/></a>
+  &nbsp;&nbsp;
+<a href="https://fastapi.tiangolo.com/"><img src="https://github.com/gilbarbara/logos/blob/main/logos/fastapi-icon.svg" alt="fastapi" width="40" height="40"/></a>
+  &nbsp;&nbsp;
+<a href="https://jinja.palletsprojects.com/en/stable/"><img src="https://www.vectorlogo.zone/logos/pocoo_jinja/pocoo_jinja-ar21~bgwhite.svg" alt="jinja" height="40"/></a>
+  &nbsp;&nbsp;
+<a href="https://opencv.org"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21~bgwhite.svg" alt="opencv" height="40"/></a>
+  &nbsp;&nbsp;
+  &nbsp;&nbsp;
 <a href="https://jupyter.org"><img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="jupyter" width="40" height="40"/></a>
   &nbsp;&nbsp;
 <a href="https://numpy.org"><img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="numpy" width="40" height="40"/></a>
@@ -31,12 +40,7 @@ _<h3 align="center" >⚙️ Languages and Tools</h3>_
   &nbsp;&nbsp;
 <a href="https://seaborn.pydata.org"><img src="https://github.com/gilbarbara/logos/blob/main/logos/seaborn-icon.svg" alt="seaborn" width="40" height="40"/></a>
   &nbsp;&nbsp;
-<a href="https://django.org"><img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="django" width="40" height="40"/></a>
-  &nbsp;&nbsp;
-<a href="https://fastapi.tiangolo.com/"><img src="https://github.com/gilbarbara/logos/blob/main/logos/fastapi-icon.svg" alt="django" width="40" height="40"/></a>
-  &nbsp;&nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-  &nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
   &nbsp;&nbsp;
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
