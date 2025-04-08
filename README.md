@@ -27,7 +27,7 @@ _<h3 align="center" >⚙️ Languages and Tools</h3>_
   &nbsp;&nbsp;
 <a href="https://jinja.palletsprojects.com/en/stable/"><img src="https://www.vectorlogo.zone/logos/pocoo_jinja/pocoo_jinja-ar21~bgwhite.svg" alt="jinja" height="40"/></a>
   &nbsp;&nbsp;
-<a href="https://opencv.org"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21~bgwhite.svg" alt="opencv" height="40"/></a>
+<a href="https://opencv.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" alt="opencv" height="40" width="40"/></a>
   &nbsp;&nbsp;
   &nbsp;&nbsp;
 <a href="https://jupyter.org"><img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="jupyter" width="40" height="40"/></a>
