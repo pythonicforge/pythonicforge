@@ -45,7 +45,7 @@ _<h3 align="center" >⚙️ Languages and Tools</h3>_
   &nbsp;&nbsp;
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
   &nbsp;&nbsp;
-<a href="https://firebase.google.com/"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
+<a href="https://firebase.google.com/"><img src="https://brandeps.com/logo-download/F/Firebase-logo-vector-02.svg" alt="firebase" width="40" height="40"/></a>
   &nbsp;&nbsp;
 <a href="https://react.dev/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
   &nbsp;&nbsp;
