@@ -4,11 +4,11 @@
 
 <br>
   
-- 🔭 _I’m currently working on my Mathematics_
+- 🔭 _I’m currently working on my computer skills_
 
-- 🌱 _I’m currently learning **Machine Learning**_
+- 🌱 _I’m currently learning **Python**_
 
-- 👯 _I’m looking to collaborate on **Python and web-dev projects**_
+- 👯 _I’m looking to collaborate on **anything related to technology**_
 
 - 💬 _Ask me about **Python, AI-ML & web-dev**_
 
