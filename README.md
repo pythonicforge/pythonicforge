@@ -71,9 +71,9 @@ _<h3 align="center" >⚙️ Languages and Tools</h3>_
 _<h3 align="center">📊 GitHub Statistics</h3>_
 
 <div align="center">
-<a href="https://github.com/pythonicforge"><img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pythonicforge&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="pythonicforge" /></a>
+<a href="https://github.com/pythonicforge"><img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pythonicforge&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="pythonicforge" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/pythonicforge"><img align="center" height="170" src="https://github-readme-stats.vercel.app/api?username=pythonicforge&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="pythonicforge" /></a>
+<a href="https://github.com/pythonicforge"><img align="center" height="170" src="https://github-readme-stats.vercel.app/api?username=pythonicforge&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="pythonicforge" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   </div>
 <div align="center">
