@@ -38,6 +38,7 @@ _<h3 align="center" >⚙️ Languages and Tools</h3>_
   &nbsp;&nbsp;
   <br><br>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="40" height="40"/></a>
+   &nbsp;
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css3" width="40" height="40"/></a>
   &nbsp;&nbsp;
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="40" height="40"/></a>
@@ -52,7 +53,10 @@ _<h3 align="center" >⚙️ Languages and Tools</h3>_
   &nbsp;&nbsp;
   <a href="https://sass-lang.com"><img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="sass" width="40" height="40"/></a>
   &nbsp;&nbsp;
+<a href="https://www.postman.com/"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
+  &nbsp;&nbsp;
 <a href="https://vercel.com/"><img src="https://www.vectorlogo.zone/logos/vercel/vercel-ar21~bgwhite.svg" alt="vercel" height="40"/></a>
+  &nbsp;
 <a href="https://firebase.google.com/"><img src="https://brandeps.com/logo-download/F/Firebase-logo-vector-02.svg" alt="firebase" width="40" height="40"/></a>
   &nbsp;&nbsp;
    <br><br>
