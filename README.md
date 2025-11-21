@@ -1,1 +1,13 @@
-<p style="font-family: monospace">I like computer vision</p>
+<p align="center">
+  <img src="225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9-2.gif" width="100%" />
+</p>
+
+I'm <a href="https://pythonicforge.github.io">Hardikk</a>, a computer enthusiast based in India. 
+
+I'm a python developer exploring computer vision, embedded systems, and low-level engineering.  
+currently building small projects and learning by doing.  
+love keeping things simple, practical, and real.
+
+into: python, systems programming, hardware tinkering, and computer vision.  
+
+always down to collab or jam on ideas 🤝
