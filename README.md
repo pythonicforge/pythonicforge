@@ -8,6 +8,6 @@ I'm a python developer exploring computer vision, embedded systems, and low-leve
 currently building small projects and learning by doing.  
 love keeping things simple, practical, and real.
 
-into: python, systems programming, hardware tinkering, and computer vision.  
+into: computer vision, space tech and mechatronics.
 
 always down to collab or jam on ideas 🤝
