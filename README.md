@@ -4,10 +4,4 @@
 
 I'm <a href="https://pythonicforge.github.io">Hardikk</a>, a computer enthusiast based in India. 
 
-I'm a python developer exploring computer vision, embedded systems, and low-level engineering.  
-currently building small projects and learning by doing.  
-love keeping things simple, practical, and real.
-
-into: computer vision, space tech and mechatronics.
-
 always down to collab or jam on ideas 🤝
